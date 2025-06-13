@@ -23,7 +23,7 @@ tags: [Goal]
     + 모두를 위한 2025AI 바이블: AI Signature(95H)
     + ~~50개 프로젝트로 완벽하게 끝내는 머신러닝 SIGNATURE(141H)~~
     + Reinforcement Learning 
-- Reinforcement Learning
+- Reinforcement Learning 
     + FastCampus 강의 
     + 책: 강화학습 이론 및 실습 
 
