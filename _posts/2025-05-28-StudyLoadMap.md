@@ -33,8 +33,7 @@ tags: [Goal]
     + 기본기 다지기
     + 공개 노트북/토론 분석
     + 로컬 검증 체계화: roubust한 cross-validation 구축
-    + 빠른 실험과 반복  
-        baseline 모델을 빠르게 만들고, feature enginerring, 모델 튜닝, 앙상블 등으로 점진적 개선 (완벽 < 빠른 반복과 피드백)
+    + 빠른 실험과 반복 baseline 모델을 빠르게 만들고, feature enginerring, 모델 튜닝, 앙상블 등으로 점진적 개선 (완벽 < 빠른 반복과 피드백)
     + 팀빌딩
     + 대회 선택
 - Notebooks, Datasets, Discussion 분야
@@ -52,5 +51,5 @@ tags: [Goal]
     + 커뮤니티와의 네트워킹 
 
  ## 4. 커뮤니티 활동 
- - 캐글 코리아
- - 가짜 연구소 
+- 캐글 코리아
+- 가짜 연구소 
